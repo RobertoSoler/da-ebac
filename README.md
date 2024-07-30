@@ -1,2 +1,7 @@
 # da-ebac
-Repositório para exercícios da EBAC
+
+> Repositório para Análise de Dados da EBAC
+
+## Introdução
+
+Este repósitório foi criado para exercícios para o Curso de Análise de Dados da EBAC
